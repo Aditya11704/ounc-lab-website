@@ -1,0 +1,8 @@
+{
+  "name": "Ounc Labs - Future of Micro-Mobility",
+  "description": "A high-performance React application for Ounc Labs, featuring dynamic product management via Firebase, responsive design, and integrated AI assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
